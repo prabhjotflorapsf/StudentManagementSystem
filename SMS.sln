@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentM", "StudentM\StudentM.csproj", "{E4700753-59E6-4714-86FC-E42C57E0B3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentM.Tests", "StudentM.Tests\StudentM.Tests.csproj", "{ABB7227F-FB65-4F6B-A665-0FD82C3BE974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4700753-59E6-4714-86FC-E42C57E0B3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4700753-59E6-4714-86FC-E42C57E0B3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4700753-59E6-4714-86FC-E42C57E0B3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4700753-59E6-4714-86FC-E42C57E0B3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB7227F-FB65-4F6B-A665-0FD82C3BE974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB7227F-FB65-4F6B-A665-0FD82C3BE974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB7227F-FB65-4F6B-A665-0FD82C3BE974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB7227F-FB65-4F6B-A665-0FD82C3BE974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6A5575-88C1-4441-9927-5D4BA227713E}
+	EndGlobalSection
+EndGlobal
